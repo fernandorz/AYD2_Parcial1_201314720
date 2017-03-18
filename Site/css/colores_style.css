@@ -1,0 +1,13 @@
+/* Custom Stylesheet */
+/**
+*Fernando Jose Rodriguez Zacarias
+*/
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+
